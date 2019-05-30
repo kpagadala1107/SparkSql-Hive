@@ -50,6 +50,8 @@ public class App
         salesDF.rdd().saveAsTextFile("/Users/KP/Documents/workspace-sts-3.9.0.RELEASE/spark-hive-files/out1");
         
         
+        /*test*/
+        
         /*
         session.sql("SELECT Count(*) FROM T100KSALES1").show();
         
